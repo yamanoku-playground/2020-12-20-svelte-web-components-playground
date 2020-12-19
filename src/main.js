@@ -1,10 +1,3 @@
-import App from './App.svelte';
+import Clock from './Clock.svelte';
 
-const app = new App({
-	target: document.body,
-	props: {
-		name: 'world'
-	}
-});
-
-export default app;
+export default Clock;
