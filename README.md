@@ -1,7 +1,5 @@
 # svelte-web-components-playground
 
-https://yamanoku-playground.github.io/svelte-web-components-playground/public/index.html
-
 ## Dev
 
 ```
